@@ -1,0 +1,9 @@
+{
+  "name": "bob",
+  "age": 12,
+  "friends": ["jason", "james"],
+  "value": {
+    "name": "jason",
+    "age": 13
+  }
+}
